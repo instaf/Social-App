@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_basket.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_basket.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_flowers_f2.jpeg",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_flowers_f2.jpeg"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\node_modules_reactnavigation_src_views_assets_backiconmask.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7190e8e54c2e57b15277e0ba39924d9e\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\node_modules_reactnativedatepicker_date_icon.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativedatepicker_date_icon.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_rectangle.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_rectangle.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_closefilter.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_closefilter.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.4.aar\\9ccfe37d46da0fd5223f25bb637afe1e\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7190e8e54c2e57b15277e0ba39924d9e\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_flowers_f3.jpeg",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_flowers_f3.jpeg"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_marker.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_marker.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_openfilter.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_openfilter.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\node_modules_reactnativeelements_src_rating_images_star.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_star.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_flowers_f1.jpg",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_flowers_f1.jpg"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_female.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_female.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_femaleactive.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_femaleactive.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_maleactive.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_maleactive.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_menuicon.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_menuicon.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_imageplaceholder.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_imageplaceholder.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_backbtn.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_backbtn.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7190e8e54c2e57b15277e0ba39924d9e\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.4.aar\\9ccfe37d46da0fd5223f25bb637afe1e\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_nfcactive.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_nfcactive.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7190e8e54c2e57b15277e0ba39924d9e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7190e8e54c2e57b15277e0ba39924d9e\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\node_modules_reactnativeelements_src_rating_images_heart.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_heart.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.4.aar\\9ccfe37d46da0fd5223f25bb637afe1e\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.4.aar\\9ccfe37d46da0fd5223f25bb637afe1e\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_markera.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_markera.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\node_modules_reactnativeelements_src_rating_images_rocket.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_rocket.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.4.aar\\9ccfe37d46da0fd5223f25bb637afe1e\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\node_modules_reactnativeelements_src_rating_images_bell.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_bell.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_male.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_male.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.4.aar\\9ccfe37d46da0fd5223f25bb637afe1e\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_filterbtn.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_filterbtn.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ca4e5c6b07660895933b8b42084330c5\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_polygon.png",
+        "source": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_polygon.png"
+    }
+]

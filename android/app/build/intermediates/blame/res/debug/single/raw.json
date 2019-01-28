@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_folders.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\nested_folders.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\document_nest.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\document_nest.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_alpha.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\default_balloon.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\default_balloon.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_placemark.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unsupported.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\unsupported.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inline_style.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\inline_style.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\extended_data.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\extended_data.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\draw_order_ground_overlay.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basic_folder.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\basic_folder.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ballon_gx_prefix.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unknwown_folder.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\unknwown_folder.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\visibility_ground_overlay.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\poly_style_boolean_numeric.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multiple_placemarks.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\multiple_placemarks.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cdata.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\cdata.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nested_multigeometry.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\nested_multigeometry.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ground_overlay_color.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\ground_overlay_color.kml"
+    },
+    {
+        "merged": "E:\\react-native project\\vvv-success-app-Master2\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\multigeometry_placemarks.kml",
+        "source": "C:\\Users\\JTH\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.4.3.aar\\7fca604b096ac93d27c5a438e4413786\\res\\raw\\multigeometry_placemarks.kml"
+    }
+]

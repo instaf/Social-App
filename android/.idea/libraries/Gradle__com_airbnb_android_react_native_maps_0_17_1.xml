@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.airbnb.android:react-native-maps-0.17.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-maps-0.17.1.aar/12cf9431c741efd53ffb3557846b841c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-maps-0.17.1.aar/12cf9431c741efd53ffb3557846b841c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
