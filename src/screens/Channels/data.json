@@ -1,0 +1,82 @@
+[
+	{
+	"id": 1,
+	"title": "Are the services on Instant-Fans.com safe to use?",
+	"content": "Absolutely! All of our services are 100% safe and can never get you banned!"
+	},
+	{
+	"id": 2,
+	"title": "How do I place an order?",
+	"content": "Category: Select the social media platform you want to enhance \nService: Select the service type \nLink: Enter the username or page link \nQuantity: Enter the amount needed(do not use commas or dots, for example, use 1000 instead of 1,000)"
+	},
+	{
+	"id": 3,
+	"title": "What is the start time & speed after placing an order?",
+	"content": "Every service is different. Whenever you select a service from the drop down menu, you will find a box with all the information needed for that particular service, start time, minimum/maximum amounts, as well as the average daily speed."
+	},
+	{
+	"id": 4,
+	"title": "Can I cancel an order if the speed mentioned in the service description was not accurate?",
+	"content": "Delays can sometimes occur, this is mainly caused by recent updates in a certain Social Media website’s algorithm or a system overload, on the rare occasion that this can happen we will only be able to refund the missing amount from the order within 48 hours of opening the ticket if the issue was not solved."
+	},
+	{
+	"id": 5,
+	"title": "Can I use your services while using outside sources or running ad campaigns?",
+	"content": "Ad campaigns do not affect our delivery times or process; however, we rely strictly on the start counts and current counts seen by our system and do not count any exterior enhancements, whether it is from ad campaigns or outside sources."
+	},
+	{
+	"id": 6,
+	"title": "Are my followers/likes/views guaranteed not to drop?",
+	"content": "The bulk of our services have a refill guarantee, meaning that we would replenish your account free of charge if you face a drop within the refill period."
+	},
+	{
+	"id": 7,
+	"title": "What is refill?",
+	"content": "Some social media platforms perform updates every few weeks or months to remove inactive accounts, this might cause some numbers to drop, all you need tto do if that happens is open up a ticket with your order ID and we will refill if free of charge if it falls during the refill period."
+	},
+	{
+	"id": 8,
+	"title": "When am I not eligible for refills?",
+	"content": "Some clients place orders with us after using previous providers, for example they place an order of 1,000 followers for an account with tens or hundreds of thousands of followers, such accounts are bound to drop at some point due to the large numbers of previously bought followers, as such, we cannot offer refills for accounts that exceed 100,000 fans."
+	},
+	{
+	"id": 9,
+	"title": "I entered the wrong username or wish to cancel an order after entry, is that possible?",
+	"content": "If the username/link is valid then the order cannot be stopped; however, if the link is invalid(for example a youtube link in an instagram service) then we can cancel and refund."
+	},
+	{
+	"id": 10,
+	"title": "What is mass order?",
+	"content": "Mass order is used for when you want to enter several orders for different links at the same time, to do this, you should enter orders in this format: \nService ID | URL | Quantity - for example, ♛ Real Instagram Followers S3 - Non drop has the service ID - 31 \n31| user1 |1000 \n31| user2 |5000 \n31| user3 |3000 \nThe service IDs can be found here - https://www.instant-fans.com/services"
+	},
+	{
+	"id": 11,
+	"title": "My monthly Automatic Likes subscription has stopped, what could be the reason?",
+	"content": "Our tracker checks your account every minute; however, if you change your account username or switch it to private, we would no longer be able to detect your new posts and the service is automatically paused until you provide us with the new username."
+	},
+	{
+	"id": 12,
+	"title": "My order status is “Partial”, what does this mean?",
+	"content": "A partial status occurs when a link has already maxed out that particular server’s capacity, when this happens you will automatically get a refund for the amount that was not delivered and you may then use any of our other servers for that link"
+	},
+	{
+	"id": 13,
+	"title": "How can I get a website like yours and why is this recommended?",
+	"content": "You can get a website like ours within minutes from bit.ly/instantfanspanel All you need to do is connect the services to us(takes less than 30 seconds per service) and set them at a higher rate on your website, any order placed there will automatically be forwarded to us where it will be delivered within minutes! We recommend this as customers like to place their own orders and would be more encouraged to do so when they can do it manually, and it is a lot less hassle for you as you do not need to manually maintain orders and instead focus on marketing your new site! \nP.S. We offer this service for free for the first month for users that have spent more than $1,000 with us!"
+	},
+	{
+	"id": 14,
+	"title": "Do you accept any payment methods that are not listed on the “Add Funds” page?",
+	"content": "A We only accept PayPal and the methods listed on the “Add Funds” page, Paytm and other forms of payment are not accepted"
+	},
+	{
+	"id": 15,
+	"title": "Can I order with the drip feed option via mass orders or API?",
+	"content": "Drip feed orders are only available manually at the moment and are not possible using the mass oder format or via API"
+	},
+	{
+	"id": 16,
+	"title": "How can I get YouTube or Facebook comment links?",
+	"content": "In order to retrieve YouTube or Facebook comment links, simply right click on the time of comment, then select “Copy Link Address”, then paste it in a new tab and check if it will take you to the comment you are looking for and if it does then you’ve done it correctly!"
+	}
+]
